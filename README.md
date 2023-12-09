@@ -17,7 +17,7 @@
 <p id="p1">
 <div align="center">
    <a href="https://github.com/bharathikannan25/RESUME/blob/main/Bharathi%20kannan%20R%20S.pdf" rel="nofollow">
-<img alt="pngwing.com (31).png" src="https://github.com/Arunprasath2002/png_jpg_svg/blob/main/pngwing.com%20(31).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" alt="Logo" width="120" height="120">
+<img alt="pngwing.com (31).png" src="https://github.com/bharathikannan25/Images/blob/main/Profile.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" alt="Logo" width="120" height="120">
   </a>
 
   
