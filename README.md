@@ -44,7 +44,7 @@ projects and grow within a collaborative environment</h3>
     <li><a href="#EDUCATION">EDUCATION</a></li>
     <li><a href="#SKILLS">SKILLS</a></li>
     <li><a href="#PROJECTS">PROJECTS</a></li>
-    <li><a href="#CERTIFICATES AND COURSES">CERTIFICATES AND COURSE</a>
+    <li><a href="#CERTIFICATES AND COURSES">CERTIFICATES AND COURSES</a>
     
   </li>
     <li><a href="#LANGUAGES">LANGUAGES</a></li>
