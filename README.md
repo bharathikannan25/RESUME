@@ -2,8 +2,8 @@
 <a href="mailto:prasanthbharathi25@gmail.com" rel="nofollow">
 <img alt="Gmail.png" src="https://github.com/bharathikannan25/Images/blob/main/Gmail.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
 
-<a href="https://colab.research.google.com/drive/1sqS802cwe97oOWlv-8KBqCgTWFE1FbZP" rel="nofollow">
-<img alt="colab.png" src="https://github.com/bharathikannan25/Images/blob/main/GitHub.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
+<a href="https://twitter.com/Prasap2" rel="nofollow">
+<img alt="colab.png" src="https://github.com/bharathikannan25/Images/blob/main/Adobe_Express_20230824_1048510_1.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
 
   <a href="https://github.com/bharathikannan25" rel="nofollow">
 <img alt="GitHub.png" src="https://github.com/bharathikannan25/Images/blob/main/GitHub.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
