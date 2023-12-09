@@ -15,15 +15,18 @@
 <br />
 <p id="p1">
 <div align="center">
-   <a href="https://github.com/Arunprasath2002/RESUME/blob/main/P.ARUNPRASATH.pdf" rel="nofollow">
+   <a href="https://github.com/bharathikannan25/RESUME/blob/main/Bharathi%20kannan%20R%20S.pdf" rel="nofollow">
 <img alt="pngwing.com (31).png" src="https://github.com/Arunprasath2002/png_jpg_svg/blob/main/pngwing.com%20(31).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" alt="Logo" width="120" height="120">
   </a>
 
   
-  <h1 align="center">ARUNPRASATH P</h1>
+  <h1 align="center">BHARATHI KANNAN R S</h1>
 
   <p align="center">
-<h3>Seeking a beginner role to enhance and explore my technical knowledge gained at Anna University in the last three years. I hold a B.E degree from MRK Institute Of Technology and participated in various service schemes and sports competition held at the campus.</h3>
+<h3>Motivated Java Developer, recent graduate, proficient in Java,
+SQL, and JDBC. Committed to delivering high-quality code,
+continuously enhancing skills. Excited to contribute to dynamic
+projects and grow within a collaborative environment</h3>
     <br />
     <a href="https://github.com/Arunprasath2002/RESUME/tree/main/documents"><strong>Explore the docs »</strong></a>
     <br />
@@ -70,12 +73,12 @@
 
 ## SKILLS
 * &nbsp;&nbsp;**HTML & CSS**<br>
-* &nbsp;&nbsp;**Python**<br>
+* &nbsp;&nbsp;**JAVA**<br>
+* &nbsp;&nbsp;**SQL**<br>
 * &nbsp;&nbsp;**VLSI**<br>
-* &nbsp;&nbsp;**UI UX Design**<br>
 * &nbsp;&nbsp;**MS office**<br>
 * &nbsp;&nbsp;**Photoshop**<br>
-* &nbsp;&nbsp;**CNC Machine operating**<br>
+
 
 
 ## PROJECTS
@@ -94,18 +97,14 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * **[Dev ops completion certificate](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/NM%20DevOps.pdf)**
 * **[Skill Rary IMI cloud](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/IMI%20cloud%20%20(1).pdf)**
 
-### EXTRACURRICULAR ACTIVITIES
-* School competitions at zonal level [foot ball game winner](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/2023_08_24%203_27%20pm%20Office%20Lens.pdf) and also participated in chess competition
-* Volunteer in National Service Scheme and NCC
-* making Handcrafts
 
 ## LANGUAGES
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tamil <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English
 
 ## REFERENCE
-Gmail:&nbsp;<arunprasath.frnd@gmail.com><br>
-Linkedin:&nbsp;<https://linkedin.com/in/arunprasath-p><br>
-Contact:&nbsp;+91 6374385510
+Gmail:&nbsp;<pranthbharathi25@gmmail.com><br>
+Linkedin:&nbsp;<https://in.linkedin.com/in/bharathi-kannan-r-s-0b5b36233><br>
+Contact:&nbsp;+91 7339440830
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
