@@ -24,7 +24,7 @@
   <h1 align="center">BHARATHI KANNAN R S</h1>
 
   <p align="center">
-<h3>Motivated Java Developer, recent graduate, proficient in Java,
+<h3>Motivated Java Developer, recent graduate, proficient in HTML & CSS , Java,
 SQL, and JDBC. Committed to delivering high-quality code,
 continuously enhancing skills. Excited to contribute to dynamic
 projects and grow within a collaborative environment</h3>
