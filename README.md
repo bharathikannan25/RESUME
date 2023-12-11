@@ -1,10 +1,8 @@
 
 <a href="mailto:prasanthbharathi25@gmail.com" rel="nofollow">
 <img alt="Gmail.png" src="https://github.com/bharathikannan25/Images/blob/main/Gmail.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
-
-
-
-  <a href="https://github.com/bharathikannan25" rel="nofollow">
+ 
+ <a href="https://github.com/bharathikannan25" rel="nofollow">
 <img alt="GitHub.png" src="https://github.com/bharathikannan25/Images/blob/main/GitHub.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
 
 <a href="https://in.linkedin.com/in/bharathi-kannan-r-s-0b5b36233" rel="nofollow">
