@@ -6,10 +6,10 @@
 <img alt="GitHub.png" src="https://github.com/bharathikannan25/Images/blob/main/GitHub.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
 
 <a href="https://in.linkedin.com/in/bharathi-kannan-r-s-0b5b36233" rel="nofollow">
-<img alt="LinkedIn.png" src="https://github.com/Arunprasath2002/png_jpg_svg/blob/main/LinkedIn.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
+<img alt="LinkedIn.png" src="https://github.com/bharathikannan25/Images/blob/main/LinkedIn.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
 
 <a href="https://twitter.com/Prasap2" rel="nofollow">
-<img alt="colab.png" src="https://github.com/bharathikannan25/Images/blob/main/Adobe_Express_20230824_1048510_1.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
+<img alt="x.png" src="https://github.com/bharathikannan25/Images/blob/main/Adobe_Express_20230824_1048510_1.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" rect xmlns="http://www.w3.org/2000/svg" width="151" height="38" fill="#555"/>
   
 <br />
 <p id="p1">
